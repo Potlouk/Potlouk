@@ -1,23 +1,11 @@
 <div align="center">
 <img src="https://www.icolorpalette.com/download/solidcolorimage/8892bf_solid_color_background_icolorpalette.png" align="center" style="width: 100%" />
 </div>  
-<br/>  
-
 <table><tr><td valign="top" width="50%">
-
-
-
 </td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
-
 <br/>  
-
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Daily drive   
 <div align="center">  
