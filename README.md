@@ -2,7 +2,6 @@
 
 ### Not a total stranger to 👇
 <div align="left">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="20" />
   <img src="https://logo.svgcdn.com/l/symfony.svg" height="50" alt="symfony logo"  />
@@ -16,4 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="50" alt="html5 logo"  />
 </div>
