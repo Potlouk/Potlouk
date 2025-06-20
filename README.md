@@ -1,6 +1,6 @@
 <img align="right" height="150" src="https://pa1.aminoapps.com/7311/802186d9ed2a72263c7bf83eedc072e867d86022r1-327-251_hq.gif"/>
 
-### Not a stranger to:
+### Not a total stranger to 👇
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
